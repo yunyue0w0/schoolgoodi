@@ -1,10 +1,11 @@
-# ai-center-
+# c113118104
 
-## ai-center-
+## c113118104
 
-### ai-center-
+### c113118104
 
-#### ai-center-
+#### c113118104
+
 ***
 ##### ai-center-
 
@@ -27,5 +28,7 @@ This is an apple.
 連結外部連結:
 [歡迎觀看小說](https://czbooks.net/creator/n/cr3alo/preview?purge=1)
 
-![KUST](Screenshot_2026-09-14-07-50-10-161_com.lemon.lvoverseas-edit.jpg"好好聊天不行嗎 封面")
+![image](Screenshot_2026-09-14-07-50-10-161_com.lemon.lvoverseas-edit.jpg"好好聊天不行嗎封面")
+
+
 
